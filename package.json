@@ -61,7 +61,7 @@
     "@nx/angular": "18.0.8",
     "@popperjs/core": "^2.10.2",
     "@prisma/client": "^4.15.0",
-    "@schematics/angular": "^14.2.3",
+    "@schematics/angular": "^19.2.8",
     "@types/adm-zip": "^0.5.0",
     "@types/better-sqlite3": "^7.6.4",
     "@types/multer": "^1.4.7",
