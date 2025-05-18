@@ -58,7 +58,7 @@
     "@nestjs/throttler": "^5.1.2",
     "@ngx-env/builder": "^15.2.1",
     "@nx-plus/docusaurus": "^15.0.0-rc.0",
-    "@nx/angular": "18.0.8",
+    "@nx/angular": "20.7.1",
     "@popperjs/core": "^2.10.2",
     "@prisma/client": "^4.15.0",
     "@schematics/angular": "^14.2.3",
